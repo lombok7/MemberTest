@@ -75,15 +75,15 @@
     
     <LinearLayout 
         android:orientation="vertical"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content" >
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
         
-		<ImageView 
-		    android:id="@+id/iv_image"
-		    android:layout_width="wrap_content"
-		    android:layout_height="wrap_content"
-		    android:src="@drawable/frame"
-		    android:contentDescription="@string/str_img" /> 
+        <ImageView 
+            android:id="@+id/iv_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/frame"
+            android:contentDescription="@string/str_img" /> 
        
     </LinearLayout>
 
