@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemberTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="str_id">아이디</string>
+    <string name="str_pwd">비밀번호</string>
+    <string name="str_img">이미지</string>
+    <string name="str_select">선택</string>
+    <string name="str_join">가입</string>
+    
+    
+</resources>
